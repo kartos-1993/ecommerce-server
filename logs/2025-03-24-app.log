@@ -1,6 +1,0 @@
-2025-03-24 16:56:35 [INFO]: Login attempt for email: abishek.asim@gmail.com
-2025-03-24 16:56:35 [WARN]: Login failed: Invalid password for email: abishek.asim@gmail.com
-2025-03-24 16:58:23 [INFO]: Login attempt for email: abishek.asim@gmail.com
-2025-03-24 16:58:23 [INFO]: Creating session for user ID: 67aef6f1b6ecabd66e4508a4
-2025-03-24 16:58:23 [INFO]: Signing tokens for user ID: 67aef6f1b6ecabd66e4508a4
-2025-03-24 16:58:23 [INFO]: Login successful for user ID: 67aef6f1b6ecabd66e4508a4
